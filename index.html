@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <img src="logo.png" alt="">
+
+        <ul class="navlist">
+            <li class="nav-item"><a href="#" class="nav-menu ">Home</a></li>
+            <li class="nav-item"><a href="#" class="nav-menu">About</a></li>
+            <li class="nav-item"><a href="#" class="nav-menu">Services</a></li>
+            <li class="nav-item"><a href="#" class="nav-menu">Contact</a></li>
+
+        </ul>
+        <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+    </nav>
+    <!-- banner -->
+    <section class="banner">
+        <h1>Follow The <br></h1>
+        <h2> Rules And Grow</h2>
+        <p class="para1">uis autem vel eum iriure dolor in hendrerit in vulputate velit</p>
+
+
+
+        <p>uis autem vel eum iriure dolor in hendrerit in vulputate velit</p>
+        <button id="text" class="btn">Join Now</button>
+    </section>
+
+    <!-- banner -->
+
+    <!-- About -->
+    <section class="about">
+        <div class="about-img">
+            <img src="about.png" alt="">
+        </div>
+        <div class="about-text">
+            <h6>WHAT WE DO</h6>
+            <h1>Create a beautiful
+                <br>
+                portfolio gallery
+            </h1>
+            <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat
+                facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                euismod tincidunt.</p>
+            <button class="btn">Learn More</button>
+        </div>
+    </section>
+    <!-- About -->
+
+
+
+    <!-- Features and Services -->
+    <div class="service-title">
+        <h6>features and services</h6>
+        <h1>How we satisfy our clients</h1>
+    </div>
+
+    <section class="service">
+
+        <div class="service-box">
+            <img src="f-icon-1.png" alt="">
+            <h2>How we satisfy our clients</h2>
+            <p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolor erat.</p>
+        </div>
+
+        <div class="service-box">
+            <img src="f-icon-2.png" alt="">
+            <h2>Userfriendly Experience</h2>
+            <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea.</p>
+        </div>
+
+        <div class="service-box">
+            <img src="f-icon-3.png" alt="">
+            <h2>Colour Shemes</h2>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p>
+        </div>
+
+        <div class="service-box">
+            <img src="f-icon-4.png" alt="">
+            <h2>Different Layouts</h2>
+            <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+        </div>
+
+        <div class="service-box">
+            <img src="f-icon-5.png" alt="">
+            <h2>Vector Based Graphics</h2>
+            <p>Vector Based GraphicsInvidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+        </div>
+
+        <div class="service-box">
+            <img src="f-icon-6.png" alt="">
+            <h2>Pixel Perfect Design</h2>
+            <p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+        </div>
+    </section>
+    <!--end Features and Services -->
+
+    <footer class="footer">
+        <h6>call to action</h6>
+        <h1>Start building your website with a modern CMS</h1>
+        <p>Aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+            gubergren, no sea takimata sanctus est Lorem ipsum dolor <br> sit amet.</p>
+
+    </footer>
+
+    <script>
+        
+        const hamburger= document.querySelector(".hamburger");
+        const navlist= document.querySelector(".navlist");
+        hamburger.addEventListener("click",() =>{
+
+            hamburger.classList.toggle('active')
+            navlist.classList.toggle('active')
+        })
+    </script>
+</body>
+
+</html>
