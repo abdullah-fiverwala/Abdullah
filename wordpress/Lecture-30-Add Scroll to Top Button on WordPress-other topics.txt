@@ -1,0 +1,12 @@
+Lecture-30:Add Scroll to Top Button on WordPress/other topics
+*WPFront Scroll Top and go to setting 
+
+part-2:How to Hide Breadcrumbs in WordPress One Page Website 
+*go to customization nad click Additional css 
+add:
+.breadcrumb{
+display:none;
+}
+
+part-3; Add WhatsApp Chat to WordPress Website 
+*Install (Click to chat) and add phone no 

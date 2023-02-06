@@ -1,0 +1,8 @@
+                                                                     WORDPRESS COURSE
+
+1-Start xampp
+2-Go to xampp file in c-folder and paste wordpress zipfile(download file) and then extract wordpress zipfile in xampp,
+ new folder created and rename it according to project name 
+3- Go on search tab and search http://localhost/phpmyadmin/ and create database,and we create new and different database
+for new websites
+4-open new tab and search localhost/project1 (project1/name which we created folder in xampp/htdoc file) and then wordpress open

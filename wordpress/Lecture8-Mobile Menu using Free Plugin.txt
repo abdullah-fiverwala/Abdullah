@@ -1,0 +1,3 @@
+                                 Lecture8-Mobile Menu using Free Plugin
+
+*Install (Responsive Menu Plugin)then activate,then automatically your menu become responsive

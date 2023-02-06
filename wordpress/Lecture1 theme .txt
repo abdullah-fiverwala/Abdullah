@@ -1,0 +1,6 @@
+                                                            LECTURE:1 THEME IN WORDPRESS
+
+
+1-You can download internal themes from themes pannel from wordpress
+
+2-You can download themes from wordpress.org and them extract in to projech file

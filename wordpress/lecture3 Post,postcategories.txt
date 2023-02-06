@@ -1,0 +1,17 @@
+                                                          
+
+                                                          Create Post In wordpress
+
+1-Go to post option and then click to (ADD NEW) and the post created
+
+
+
+                                                          Catagories Of Post
+1-We can add our post in catagories like,First we go on categories option and create new categorie and save then go to (ALL POSTS)
+Select our post and click edit option And like this we can add oor post in categories
+
+                                                          Add Categries in Menu
+
+1-Go to apperence and click menu ,click categories and select categories and then press add to menu
+this will add categories to menu 
+

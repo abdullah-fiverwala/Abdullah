@@ -1,0 +1,4 @@
+Recent posts widget with thumbnails-Lecture 12
+
+*Install the (recent posts widget with thumbnails )plugin and activate
+them go to apperance and click Widget and then click sidebar and search (recent posts widget with thumbnails )

@@ -1,0 +1,8 @@
+                                                                        Lecture6-Widgets in WordPress 
+
+*Go in appearence and click widgets and we can easily edit or remove widgets 
+
+Widgets contain :
+Search
+Header
+Footer

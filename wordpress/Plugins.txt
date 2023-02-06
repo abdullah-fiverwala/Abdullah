@@ -1,0 +1,26 @@
+ Plugin We Used in Tutorials
+1-Responsive Lightbox & Gallery
+2-Responsive Menu
+3-Smart Slider 3
+4-Classic Editor
+5-Recent posts widget with thumbnails 
+6- WP News and Scrolling Widgets
+7-RSS Feed Retriver
+8-Simple Social Icons
+9-Simple Testimonials
+10-Smush
+11- Social Icons Widgets & Block
+12-WP New and Scrolling Widgets
+13-Simple custom Post order
+14-Contact form 7
+15-Contact Form 7 Database Addon – CFDB7
+16-Redirection for Contact Form 7
+17-WP DatePicker
+18-GTranslate
+19-PreLoader
+20-Easy updates manager
+21-Disable Comments
+22-Responsive Accordion And Collapse
+23-AddtoAny share Button
+24-call on button
+25-WP-scroll top

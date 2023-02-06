@@ -1,0 +1,25 @@
+Lecture27-Text Editor in Elementor
+
+
+part-2:Column Layouts With Elementor 
+go to page and open any page and click edit with elementor ,you will see  "+"and click it you will see colums 
+
+part-3:Text Heading in WordPress with Elementor 
+
+part-4:Add video in Elementor
+
+Part-5:Add map in Elementor
+
+part-6:TABS in WordPress with Elementor  
+
+part-7: Image Carousel Slider in WordPress with Elementor 
+
+part-8:Progress Bar in WordPress With Elementor  
+
+part-9:Add Counter With Elementor
+    
+part-10:Add Image Gallery Elementor in WordPress  
+
+part-11:Redirect Non-WWW to WWW URL in WordPress(After creation of website)
+
+part-12:WP-Config File in WordPres(After creation of website)

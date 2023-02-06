@@ -1,0 +1,72 @@
+ lecture17-Contact Form 7 in WordPress
+*Install (Contact Form 7) and create form
+*And Go To Mail and Click Messages:
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+Name:[your-name][text-927]
+Email:[your-email]
+Message:[your-message]
+
+-- 
+This e-mail was sent from a contact form on [Website Demo] ([http://localhost/Website%20demo/])
+******************************************************************************************
+
+ Part 2                              Display Contact Form 7 Data in WordPress
+
+*Install (Contact Form 7 Database Addon – CFDB7) and Go To Contact Form Option at Bottom
+So this will Diplay your mail to dashboard
+******************************************************************************************
+Part 3-Google reCAPTCHA v3 with Contact Form 7 in WordPress
+*Go to contact and click Integration
+Click recaptcha integration
+and then open this link(https://www.google.com/recaptcha/admin/create)
+and you will get secrit code and api code ,then paste them in contact , integration optiob
+******************************************************************************************      
+part4-Open Contact Form 7 in Popup Using Free Plugin
+Later
+******************************************************************************************
+part5-Install & Setup Easy WP SMTP in WordPress with Contact Form 7
+
+WATCH LATER
+ 
+******************************************************************************************
+
+part6- Datepicker in WordPress 
+First install (WP DatePicker)and then go to setting and open WP datePicker and Create class
+*Now go to Contact form add this
+
+<label> Date up
+  [text* text-00 class:datepicker]  </label>
+
+<label> Date down
+  [text* text-01 class:datepicker]  </label>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

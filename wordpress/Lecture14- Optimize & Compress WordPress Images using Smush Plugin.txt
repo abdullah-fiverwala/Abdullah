@@ -1,0 +1,3 @@
+Lecture14-Optimize & Compress WordPress Images using Smush Plugin
+
+*Install (Smush)Plugin and activate ,go to smush  click and go and compress the images to increase the speed of website

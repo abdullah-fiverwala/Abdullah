@@ -1,0 +1,3 @@
+                                  Lecture7-Change Logo & Title,Site logo in WordPress
+
+Go to Customization & click Side identity you can change logo,site logo & title

@@ -1,0 +1,3 @@
+lecture25-Responsive Accordion And Collapse/FAQS in website
+
+*Install(Responsive Accordion And Collapse) plugin and click Responsive Accordion  and create FAQS and padte FAQS code in page or post

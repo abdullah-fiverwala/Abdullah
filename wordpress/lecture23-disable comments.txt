@@ -1,0 +1,3 @@
+lecture23-disable comments
+
+*Install Plugin and click plugin setting to disable all options

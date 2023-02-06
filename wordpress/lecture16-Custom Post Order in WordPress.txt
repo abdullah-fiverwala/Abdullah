@@ -1,0 +1,3 @@
+              lecture16-Custom Post Order in WordPress
+
+*Install(Simple custom Post order) and press start the go to post and You can change the order of  posts in assending and desending order

@@ -1,0 +1,4 @@
+                                       Lecture9-Create a Slider in WordPress Using Smart Slider Plugin
+
+*Install(Smart Slider 3) and then activate and open Smart Slider 3 so you create slider and copy the slider file in the required page
+like, Home ,About e.t.c 

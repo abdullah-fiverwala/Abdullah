@@ -1,0 +1,8 @@
+  
+
+                                                                       Lecture-2,Create page in wordpress
+
+1-First create page in wordpress
+2-Then go in apperance and open Menu,to add create page in menu
+3-Add content in page in wordpress
+4-Add catageries abd sub catageries in menu                                             

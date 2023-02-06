@@ -1,0 +1,3 @@
+                                        Change Block Editor in WordPress
+*Install (Classic Editor) and activate it 
+It Give us more options to write post

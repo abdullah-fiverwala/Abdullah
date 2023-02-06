@@ -1,0 +1,9 @@
+*Lecture5-Create a Separate Page for Blog Posts in WordPress
+
+1-Go to setting option and click reading and choose the static page option
+and than choose post page,and name what you want 
+
+*Set Any Page As Homepage in WordPress
+1- Go to setting option and click reading and choose the static page option
+and than choose Homepage,and name what you want 
+2- Go to Appearance and click customization them go to homepage option and change what you want 

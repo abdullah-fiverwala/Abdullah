@@ -1,0 +1,4 @@
+                                               Letcture13- WP News and Scrolling Widgets
+
+*Install(WP News and Scrolling Widgets)plugin and create news And go to widget search (Latest News Scrolling Widget)
+and news adds automatically

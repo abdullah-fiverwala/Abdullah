@@ -1,0 +1,12 @@
+                                          Lecture 15-Create a Custom Menu Link in WordPress
+
+*Go to Menu Option and click custom link
+and create menu
+
+e.g:
+POST(Custom menu)
+   Blog Post sub item
+
+   Flexible sub item
+
+   Website demo sub item
