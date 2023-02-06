@@ -1,0 +1,30 @@
+Var:
+1-Var is globally scoped while Let & Const are block scoped
+2-Var can be re-declared or updated
+e.g:
+
+var a= 12;
+var a= 13;
+console.log(a);
+
+As you see we re-declared "var a=13" again 
+
+Let:
+1-Let is block scoped
+2-Let can updated and not re-declared 
+e.g:
+
+let a=13;
+let a=14;(re-declared)
+a=45;(updated fron 14 to 45)
+console.log(a);
+
+Now when we re-declared var a=14; it will show error 'on screen
+
+
+Const:
+1-Const = Constant
+2-Const can not updated neither re-declared
+
+
+

@@ -1,0 +1,80 @@
+ 
+// Aritnmatic operators
+        let a = 4;
+        let b = 3;
+console.log("a+b=", a+b);
+console.log("a-b=", a-b);
+console.log("a/b=", a/b);
+console.log("a*b=", a*b);
+console.log("a%b=", a%b);
+console.log("a-b=", a-b);
+Console.log("++a =", ++a)
+Console.log("a++ =", a++)
+Console.log("--a =", --a)
+Console.log("a-- =", a--)
+// Aritnmatic operators
+
+Assignment operators
+
+=       x=y
++=     x=x+y     
+-=     x=x-y
+*=     x=x*y
+/=     x=x/y
+%=     x=x%y
+**=    x=x**y
+
+e.g;
+  console.log("Assignment operators");
+        let x = 6
+        x += 8
+        console.log("X=", x)
+
+        x -= 8
+        console.log("X=", x)
+
+        x *= 8
+        console.log("X=", x)
+
+        x /= 8
+        console.log("X=", x)
+
+        x %= 8
+        console.log("X=", x)
+
+3-Comparison Operator
+==
+===
+!=
+!==
+<
+>
+<=
+>=
+?
+
+e.g:
+
+  let a = 4;
+        let b = 4;
+        
+
+        console.log("a==b is", a==b)               ==(double equal to )
+        console.log("a!=b is", a!=b)               !=(not equal to)
+        console.log("a===b is", a===b)             ===(tripple equal to )
+        console.log("a!==b is", a!==b)             !==(not equal to) 
+
+4-Logical operators
+
+&& locical and
+|| logical or
+!  logial not
+
+
+
+
+
+
+
+
+
