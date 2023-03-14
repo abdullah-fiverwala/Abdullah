@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+        // Javascript function
+
+        function onePlusAvg(x, y) {
+            console.log("Done")
+            return 2 + (x + y) / 2
+        }
+
+        let a = 2;
+        let b = 3;
+        let c = 4;
+        console.log(onePlusAvg(a, b));
+        console.log(onePlusAvg(c, b));
+        console.log(onePlusAvg(a, c));
+        // // To do round off we write this code
+
+        function onePlusAvg(x, y) {
+            console.log("Done")
+            return Math.round(2 + (x + y) / 2)
+        }
+
+        // Arrow function 1
+        const sum = (p, q) => {
+            return p + q
+        }
+        console.log(sum(9, 7));
+        // Arrow function 2
+        const hello = () => {
+            
+            return "hi"
+        }
+        let v = hello();
+        console.log(v)
+    </script>
+</body>
+
+</html>

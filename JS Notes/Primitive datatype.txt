@@ -1,0 +1,17 @@
+Primitive data type:
+1- Are a set of basic data type in javascript
+2- Objects are non primitive datatype in Javascript
+
+There are 7 datatypes in Javascript:
+
+   // nn bb ss u
+
+Null          let a = null;
+Number        let b = 34;
+Boleans       let c = true;
+BigInt        let d = BigInt(456);
+String        let e = "string"
+Symbols       let f = Symbol("This is symbol")
+Undefined     let g = undefined
+
+        console.log(a,d,c,d,e,f,g)

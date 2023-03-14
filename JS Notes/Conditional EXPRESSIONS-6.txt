@@ -1,0 +1,31 @@
+Conditional Expressions:
+
+Sometimes we might have to execute a block of code based off same Condition.
+For example aprompt might ask for the age of the user and if its greater than 18
+Display a special message.
+
+Types of javascript:
+1- If-statement
+
+  if(a>12){
+            ()
+        }
+        the if statement evaluats the consition in side the ()
+
+2- If else:        
+ // if else
+        if (a < 0) {
+            alert("This is invalid age");
+        }
+        else if(a<9){
+            alert("You not valid for driving ");
+        }
+        else if (a<20 && a>=10){
+         alert("You are kid and less than 18+");
+        }
+       else{
+        alert("You are now 18+ and drive the car")
+       }
+
+        // if else
+3-If else If else:

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Localstorage</title>
+</head>
+<body>
+    Hello World
+    <script>
+    //localstorage are web storage object which are not sent to server with each request
+   
+    let key =prompt( "Enter key you set");
+    let value =prompt("Enter value you eant to set") ;
+    
+    localStorage.setItem(key,value);
+    console.log(`This is value that ${key} is ${localStorage.getItem(key)} `)//get.Item will tell you the value if item 
+    
+    if (key == "black" || key == "pink"){
+        localStorage.removeItem(key) //it will not display the entire colors 
+    }
+
+  
+    if (key == "0"){
+        localStorage.clear()//it will update the entire key value 
+    }
+    
+    // localStorage.length
+
+    </script>
+</body>
+</html>

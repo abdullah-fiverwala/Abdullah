@@ -1,0 +1,8 @@
+Loop:
+We use loop to program repeated actions For-example- If you are asigned a task of printing number from 1-100, it will be very hetic to do it manually,Loops help us automate this tasks
+
+
+Symtax of For loop:
+ for(Statement1; Statement2; Statement3){
+            
+        }

@@ -1,0 +1,15 @@
+Variable:- Variable are container that contain value.
+The value of  variable can changed easily during execution of program.
+
+Example:-
+var a = 7;
+var is variable, a is identifier, = is assigned operator, 7 is string literal
+
+* RULES TO CHOOSE VARIABLE NAME:-
+1-Variable can not start with NUMBER
+e.g,
+// var 7hello=5 notallowed
+
+ 
+
+ 
